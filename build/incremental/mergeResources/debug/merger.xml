@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res" >
+            <file
+                name="text_color"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/color/text_color"
+                qualifiers=""
+                type="color" />
+            <file
+                name="black_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/black_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="blue"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/blue"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="blue_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/blue_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_blue"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_blue.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_brown"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_brown.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_disable"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_disable.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_disable_focused"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_disable_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_green"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_green.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_lblue"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_lblue.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_pink"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_pink.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_red"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_red.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_yellow"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_normal_yellow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_pressed"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_selected"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/btn_default_selected.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="dark_green_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/dark_green_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gray_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/gray_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="lavender_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/lavender_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="magenta_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/magenta_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="maroon_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/maroon_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="midnight_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/midnight_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="olive_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/olive_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="orange_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/orange_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="plum_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/plum_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="purple_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/purple_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="red_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/red_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sea_foam_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/sea_foam_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="teal_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/teal_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="turquoise_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/turquoise_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="white_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/white_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="yellow_circle"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-hdpi/yellow_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="background1"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background1.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background10"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background10.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background2"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background2.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background3"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background3.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background4"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background4.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background5"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background5.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background6"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background6.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background7"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background7.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background8"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background8.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="background9"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/background9.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="loadingscreen"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/loadingscreen.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="titlescreen"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-land/titlescreen.png"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="btn_default_normal"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_blue"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_blue.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_brown"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_brown.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_disable"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_disable.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_disable_focused"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_disable_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_green"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_green.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_lblue"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_lblue.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_pink"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_pink.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_red"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_red.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_yellow"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_normal_yellow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_pressed"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_selected"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-mdpi/btn_default_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="background1"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background1.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background10"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background10.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background2"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background2.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background3"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background3.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background4"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background4.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background5"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background5.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background6"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background6.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background7"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background7.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background8"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background8.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="background9"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/background9.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="loadingscreen"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/loadingscreen.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="titlescreen"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/drawable-port/titlescreen.png"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="circle_game"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/layout/circle_game.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ai_sound1"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound1.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound10"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound10.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound11"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound11.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound12"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound12.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound13"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound13.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound14"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound14.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound15"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound15.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound16"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound16.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound17"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound17.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound18"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound18.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound2"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound2.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound3"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound3.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound4"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound4.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound5"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound5.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound6"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound6.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound7"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound7.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound8"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound8.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ai_sound9"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/ai_sound9.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="button_sounds"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/button_sounds.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="defeat_sound"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/defeat_sound.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="leave_game_sounds"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/leave_game_sounds.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="level_select"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/level_select.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="main_menu_sound"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/main_menu_sound.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="square_sound1"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/square_sound1.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="square_sound2"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/square_sound2.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="square_sound3"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/square_sound3.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="square_sound4"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/square_sound4.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="square_sound5"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/square_sound5.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="victory_sound"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/victory_sound.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="wrong_sound"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/raw/wrong_sound.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/res/values/strings.xml"
+                qualifiers="" >
+                <string name="level7" >7
+                </string>
+                <string name="level6" >6
+                </string>
+                <string name="level9" >9
+                </string>
+                <string name="prevPage" >Previous
+                </string>
+                <string name="level8" >8
+                </string>
+                <string name="credits" >Credits
+                </string>
+                <string name="chooseLevel" >Choose a level to play
+                </string>
+                <string name="nextPage" >Next
+                </string>
+                <string name="level1" >1
+                </string>
+                <string name="start" >Ready!
+                </string>
+                <string name="level2" >2
+                </string>
+                <string name="level3" >3
+                </string>
+                <string name="level4" >4
+                </string>
+                <string name="level5" >5
+                </string>
+                <string name="back" >Back
+                </string>
+                <string name="levelSelect" >Levels
+                </string>
+                <string name="score" >0
+                </string>
+                <string name="level10" >10
+                </string>
+                <string name="tryAgain" >Try Again
+                </string>
+                <string name="creditList" >Thanks to Neale Davidson, Peter Wiegel, LCD Solid, FontGeek DTF, Ltd.,
+    Luedecke Design Font Co., and Codeman38 for
+    their provision of excellent fonts.
+                </string>
+                <string name="play" >Play
+                </string>
+                <string name="highScoreList" >List Of High Scores
+                </string>
+                <string name="highScores" >Scores
+                </string>
+                <string name="title" >Memori
+                </string>
+                <string name="app_name" >Circle Game
+                </string>
+                <string name="credit" >Credits
+                </string>
+                <string name="nextLevel" >Next Level
+                </string>
+                <string name="backToMenu" >Main Menu
+                </string>
+
+                <style name="ButtonText" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:layout_margin">
+3dp
+                    </item>
+                    <item name="android:textSize">
+30dp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:shadowColor">
+#000000
+                    </item>
+                    <item name="android:shadowDx">
+1
+                    </item>
+                    <item name="android:shadowDy">
+1
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/build-types/debug/res" />
+    </dataSet>
+
+</merger>

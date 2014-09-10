@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets" >
+            <file
+                name="fonts/cymopxl.ttf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/cymopxl.ttf" />
+            <file
+                name="fonts/glasstown_nbp.ttf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/glasstown_nbp.ttf" />
+            <file
+                name="fonts/lcd_solid.ttf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/lcd_solid.ttf" />
+            <file
+                name="fonts/pixel_coleco.otf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/pixel_coleco.otf" />
+            <file
+                name="fonts/pixel_nes.otf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/pixel_nes.otf" />
+            <file
+                name="fonts/prstartk.ttf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/prstartk.ttf" />
+            <file
+                name="fonts/ringmatrix.ttf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/ringmatrix.ttf" />
+            <file
+                name="fonts/ringmatrix3d.ttf"
+                path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/assets/fonts/ringmatrix3d.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/akshaysubramaniam/Documents/workspace/CircleGame/build-types/debug/assets" />
+    </dataSet>
+
+</merger>

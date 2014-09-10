@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Circle Game</string>
+    <string name="start">Ready!</string>
+    <string name="title">Memori</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="backToMenu">Main Menu</string>
+    <string name="nextLevel">Next Level</string>
+    <string name="play">Play</string>
+    <string name="highScores">Scores</string>
+    <string name="levelSelect">Levels</string>
+    <string name="credits">Credits</string>
+    <string name="credit">Credits</string>
+    <string name="creditList">Thanks to Neale Davidson, Peter Wiegel, LCD Solid, FontGeek DTF, Ltd.,
+    Luedecke Design Font Co., and Codeman38 for
+    their provision of excellent fonts.</string>
+    <string name="chooseLevel">Choose a level to play</string>
+    <string name="back">Back</string>
+    <string name="nextPage">Next</string>
+    <string name="prevPage">Previous</string>
+    <string name="highScoreList">List Of High Scores</string>
+    <string name="score">0</string>
+
+
+    <string name="level1">1</string>
+    <string name="level2">2</string>
+    <string name="level3">3</string>
+    <string name="level4">4</string>
+    <string name="level5">5</string>
+    <string name="level6">6</string>
+    <string name="level7">7</string>
+    <string name="level8">8</string>
+    <string name="level9">9</string>
+    <string name="level10">10</string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>
