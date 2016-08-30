@@ -8,8 +8,6 @@ verbose. Nevertheless, the code does function and should provide for a learning 
 
 https://play.google.com/store/apps/details?id=memori.circle&hl=en - Download link on app store.
 
-Credits: 
-
-Jake Luedecke Motion & Graphic Design, Nate Halley, LCD Solid, Pixel Sagas, Riciery Leal, Codeman38, Peter Wiegel for the various fonts used in the game. 
+Credits: Thanks to Jake Luedecke Motion & Graphic Design, Nate Halley, LCD Solid, Pixel Sagas, Riciery Leal, Codeman38, Peter Wiegel for the various fonts used in the game. 
 
 MADE BY AKSHAY SUBRAMANIAM
