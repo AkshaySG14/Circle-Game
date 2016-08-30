@@ -12,4 +12,4 @@ Credits:
 
 Jake Luedecke Motion & Graphic Design, Nate Halley, LCD Solid, Pixel Sagas, Riciery Leal, Codeman38, Peter Wiegel for the various fonts used in the game. 
 
-MADE BY AKSHAY SUBRAMANIAM.
+MADE BY AKSHAY SUBRAMANIAM
